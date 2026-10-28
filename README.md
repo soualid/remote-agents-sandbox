@@ -1,14 +1,14 @@
-# remote-agents-sandbox 🍌
+# remote-agents-sandbox 🍎🍏🍎🍏
 
 ```
   ______
  /      \
-|  🍌   |
-|   🍌  |
+|  🍎🍏  |
+|  🍎🍏  |
  \______/
-   |  |
-   |  |
-   |__|
+    |  |
+    |  |
+    |__|
 ```
 
-🍌 **Banana-powered project!** 🍌
+🍎🍏 **Apple-powered project!** 🍎🍏
